@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # OnboardingFlutter
+![Demo](<screenshots/Simulator Screen Recording - iPhone 16 Pro - 2024-11-26 at 15.08.05.gif>)
